@@ -1,4 +1,4 @@
-#JavaScript Randomized Message Generator
+# JavaScript Randomized Message Generator
 
 The objective of this project was to build a Node.js console app that generates random messages each time a user runs the program.
 
